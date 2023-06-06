@@ -22,14 +22,14 @@ const Portfolio = () => {
         </div>
         <div className="portfolio__right">
           <div className="portfolio__portrait">
-            <img src={CookwiseImage} alt="Cookwise Image" />
+            <img src={CookwiseImage} alt="Cookwise" />
           </div>
         </div>
       </div>
       <div className="container portfolio__container1">
         <div className="portfolio__left1">
           <div className="portfolio__img">
-            <img src={DesignSystem} alt="Design System Image" />
+            <img src={DesignSystem} alt="Design System" />
           </div>
         </div>
         <div className="portfolio__right1">
@@ -54,7 +54,7 @@ const Portfolio = () => {
         </div>
         <div className="portfolio__right">
           <div className="portfolio__img2">
-            <img src={VectorImage} alt="Vector Image" />
+            <img src={VectorImage} alt="Vector" />
           </div>
         </div>
       </div>
