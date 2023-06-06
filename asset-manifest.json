@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-mafalda/header/static/css/main.4e3e2016.css",
+    "main.js": "/react-mafalda/header/static/js/main.363a585d.js",
+    "static/media/Frame5.png": "/react-mafalda/header/static/media/Frame5.6b215c99f734503f6dcc.png",
+    "static/media/Frame2.png": "/react-mafalda/header/static/media/Frame2.fc4ead1c5794ab061197.png",
+    "static/media/CV.pdf": "/react-mafalda/header/static/media/CV.aaad6a65d8351b3663ba.pdf",
+    "static/media/DesignSystem.png": "/react-mafalda/header/static/media/DesignSystem.0c886dc25e6a19827552.png",
+    "static/media/Cookwise.png": "/react-mafalda/header/static/media/Cookwise.0a004a3bead4e6900131.png",
+    "static/media/VectorImage.png": "/react-mafalda/header/static/media/VectorImage.45c6c1e3ff20473e2495.png",
+    "index.html": "/react-mafalda/header/index.html",
+    "main.4e3e2016.css.map": "/react-mafalda/header/static/css/main.4e3e2016.css.map",
+    "main.363a585d.js.map": "/react-mafalda/header/static/js/main.363a585d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e3e2016.css",
+    "static/js/main.363a585d.js"
+  ]
+}
