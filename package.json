@@ -1,7 +1,7 @@
 {
   "name": "react-mafalda",
   "version": "0.1.0",
-  "homepage": "https://Mafs3000.github.io/react-mafalda/header",
+  "homepage": "https://Mafs3000.github.io/react-mafalda",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
